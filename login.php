@@ -7,8 +7,9 @@
 </head>
 <body>
     <form action="proses.php" method="POST">
-     <input type="text" name="nama">
-     <input type="text" name="username">
+    nama : <input type="text" name="nama"><br>
+    
+    password :<input type="password" name="password"><br>
      <input type="submit">`
     </form>
 </body>
